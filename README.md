@@ -1,7 +1,7 @@
 # Cambiare Village
 
 Strange things have been happening in Cambiare Village and it's up to you to help protect the village!
-Play as an elf and take on unique quests to protect the village from monsters and turn things back to normal.
+Play as a villager and take on unique quests to protect the village from monsters and turn things back to normal.
 
 Navigating the Village:
 - Walk using the arrow keys on the keyboard, jump using space.
